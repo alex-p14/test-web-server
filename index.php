@@ -1,4 +1,4 @@
+<h1>hello, php!</h1>
 <?php
-
-echo date('Y');
-echo "\n";
+echo '<h1>i am from PHP!</h1>';
+?>
